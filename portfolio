@@ -1,3 +1,7 @@
 
 $ git  clone  https://github.com/hiro1109/github.io.git
-$ 
+$ cd github.io.git
+$ touch index.html
+$ git add index.html
+$ git commit -m "index.htmlファイルの作成"
+$ git push origin master
